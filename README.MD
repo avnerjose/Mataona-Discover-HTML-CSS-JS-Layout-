@@ -12,7 +12,7 @@ This project was made during an online event called "Maratona Discover" from the
 <div style="display:inline" >
 <img src="./assets/screenshot1.png" width="33.33%">
 <img margin-left: 1rem; margin-right: 1rem;" src="./assets/screenshot2.png" width="20%">
-<img src="./assets/screenshot3.png" width="33.33%">
+<img src="./assets/Screenshot3.png" width="33.33%">
 </div>
 
 ***
